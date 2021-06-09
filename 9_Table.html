@@ -1,0 +1,77 @@
+<!--
+    Learning 9 : Table in HTML
+
+    Notes :
+    HTML tables allow us to arrange and group the data into rows and columns.
+
+    Benefits of using table in HTML :
+    - organize data that look tidy and neat to be displayed on the webpage
+    - provides a visual grouping of information
+    - able to direct the reader's eye and show a clear delineation where paragraphs of text may not
+
+    Ways to declare a HTML Table :
+    i) we need to use <table> tag to define a HTML Table
+   ii) Each table row is defined with a <tr> tag. Each table header is defined with a <th> tag. Each table data/cell is defined with a <td> tag.
+  iii) By default, the text in <th> elements are bold and centered.
+   iv) By default, the text in <td> elements are regular and left-aligned.
+-->
+
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>Table In HTML</title>
+
+        <style>
+            table {
+                font-family: arial, sans-serif;
+                border-collapse: collapse;
+                width: 100%;
+            }
+
+            td, th {
+                border: 1px solid #dddddd;
+                text-align: left;
+                padding: 8px;
+            }
+
+            tr:nth-child(even) {
+                background-color: #dddddd;
+            }
+        </style>
+    </head>
+
+    <body>
+        <h1>Table In HTML</h1>
+
+        <!--create a table of contact list-->
+        <h2>Contact List</h2>
+        <hr>
+
+        <table border="2px"> <!--use <table> tag to define a table-->
+            <tr> <!--use <tr> tag to define a row of the table-->
+                <th>FULL NAME</th> <!--use <th> tag to define the header of the able-->
+                <th>CONTACT NO</th> <!--use <th> tag to define the header of the able-->
+            </tr> 
+
+            <tr>
+                <td>JOHN DOE</td> <!--use <td> tag to create the element or details that want to store in the table-->
+                <td>0115589630</td>
+            </tr>
+
+            <tr>
+                <td>LILY LEE</td> <!--use <td> tag to create the element or details that want to store in the table-->
+                <td>0117848630</td>
+            </tr>
+
+            <tr>
+                <td>Ernst Handel</td> <!--use <td> tag to create the element or details that want to store in the table-->
+                <td>0115582225</td>
+            </tr>
+        </table>
+
+        <!--
+            we are able to set the design of the table by using the style sheet.
+            In this example, we are going to use internal style sheet. Refer to <head> tag
+        -->
+    </body>
+</html>

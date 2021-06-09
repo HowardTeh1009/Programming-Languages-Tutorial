@@ -1,0 +1,113 @@
+<!--
+    Learning 8 : Lists in HTML
+
+    Notes :
+    The HTML lists are used to specify a list of item in ordered or unordered arrangement. This is an 
+    very effective way ti itemize a group of objects such as the elements, components or ingredients.
+
+    Types of lists in HTML :
+    i) Ordered List <ol> & <li>
+    - every items inside the ordered list will be displayed in ordered arrangement and marked with numbers by default
+
+    ii) Unordered List <ul> & <li>
+    - every items inside the unordered list will be displayed in unordered arrangement and marked with bullets by default
+
+    iii) Description List <dl>, <dt> & <dd>
+    - is used to define a description list such as an object following by the description of the object
+-->
+
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>Lists in HTML</title>
+    </head>
+    
+    <body>
+        <h1>List in HTML</h1>
+
+        <!--Ordered List-->
+        <!--
+            To create an ordered list, we need to use <ol> tag to define the ordered list and use <li> tag to define the item that 
+            contain inside the list.
+        -->
+        <h3>TO DO LIST</h3> <!--Title of the ordered list-->
+        <ol>
+            <!--inside the list, we need to use <li> tag to create the items-->
+            <li>Study HTML, CSS & JS</li>
+            <li>Conduct research on e-commerce industry</li>
+            <li>Complete the tutorial work</li>
+        </ol>
+        <hr>
+
+        <!--Unordered List-->
+        <!--
+            To create an unordered list, we need to use <ul> tag to define the unordered list and use <li> tag to define the item that 
+            contain inside the list.
+        -->
+        <h3>GROCERY LIST</h3> <!--Title of the unordered list-->
+        <ul>
+            <!--inside the list, we need to use <li> tag to create the items-->
+            <li>Vegetables</li>
+            <li>Chicken Breast</li>
+            <li>Fish</li>
+        </ul>
+        <hr>
+
+        <!--Description List-->
+        <!--
+            To create a description list, we need to use <dl> tag to define the description list and use <dt> tag to define the 
+            description term in the list. After that, use the <dd> tag to describe the term in a description list.
+        -->
+        <h3>WEB DEVELOPMENY LANGUAGES</h3> <!--Title of the description list-->
+        <dl>
+            <!--inside the list, we need to use <dt> tag to create the description term-->
+            <dt>HTML</dt>
+            <dd>- Hypertext Markup Language</dd> <!--use <dd> tag to describe the item in the description list-->
+            <dt>CSS</dt>
+            <dd>- Cascading Style Sheet</dd> <!--use <dd> tag to describe the item in the description list-->
+            <dt>JS</dt>
+            <dd>- JavaScript</dd> <!--use <dd> tag to describe the item in the description list-->
+        </dl>
+        <hr>
+
+        <!--
+            we can also change the style of the marker of the list item by using the "style" attribute in CSS
+            together with "list-style-type" property for <ul> or "type" property for <ol>.
+
+            we can set the property in the parents tag which is <ol> or <ul> or inside the <li> tag
+        -->
+        <h3>Unordered List with different types of marker</h3>      
+            <ul>
+                <pre>
+                    <li style="list-style-type: disc;">Disc Marker   : Set the list item marker to a bullet which is the default setting of the unordered list marker.</li>
+                    <li style="list-style-type: circle;">Circle Marker : Set the list item marker to a empty circle.</li>
+                    <li style="list-style-type: square;">Square Marker : Set the list item marker to a square.</li>
+                    <li style="list-style-type: none;">None          : The items in the list will not be marked.</li>
+                </pre>               
+            </ul>
+        <hr>
+
+        <h3>Ordered List with different types of marker</h3>      
+            <ol>
+                    <li type = "1">type="1" : The list items will be numbered with numbers (default).</li>
+                    <li type = "A">type="A" : Set the list item marker with the uppercase letters.</li>
+                    <li type = "a">type="a"	: Set the list item marker with the lowercase letters.</li>
+                    <li type = "I">type="I"	: Set the list item marker with the uppercase roman numbers.</li>
+                    <li type = "i">type="i"	: Set the list item marker with the lowercase roman numbers.</li>
+            </ol>
+        <hr>
+        
+        <!--We also can create a nested list to store another list inside one list-->
+        <h3>Cafe Menu</h3>
+        <ol>
+            <li>Coffee</li>
+            <li>Tea
+              <ol>
+                <li>Black tea</li> <!--the type of the tea will be displayed inside the nested list-->
+                <li>Green tea</li> <!--the type of the tea will be displayed inside the nested list-->
+              </ol>
+            </li>
+            <li>Milk</li>
+          </ol>
+    </body>
+</html>
