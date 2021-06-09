@@ -1,0 +1,64 @@
+<!--
+    Learning 7 : Images in HTML
+
+    Notes :
+    In HTML, we can insert images into the webpage to improve the appearance and design of the webpage. This can help to 
+    improve the user interface and the user experience of the user while browsing on our website.
+
+    There are a few elements in the HTML Images :
+        Tag :
+        1) <img> : use to create a image in the HTML
+            - <img> tag is self closing tag. It does not requires an ending tag.
+
+        Attributes :
+        1) "src"              : is used to insert the URL or path of the image
+        2) "alt"              : is used the define the alternate text for an image. Alternate text is used to displayed on the webpage while the image
+                                cannot be displayed
+        3) "width" & "height" : is used to set the size of the image
+        4) "float"            : is used to let the image float to left or right in the webpage
+-->
+
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>Images in HTML</title>
+    </head>
+
+    <body>
+        <h1>Images in HTML</h1>
+
+        <!--create an image-->
+        <h2>Girl's Image</h2>
+        <img src="ImageFolder/girl.jpg" alt="Girl's Picture"> 
+        <hr>
+        <!--
+            we have insert the path of the image in the "src" attribute & set the alternate text with "Girl Picture" in "alt" attribute
+        -->
+
+        <!--let's try to set the size of the image by using the "width" & "height" attributes-->
+        <h2>Image with width & height attributes</h2>
+        <img src="ImageFolder/trulli.jpg" alt="Trulli" width="400px" height="150px">
+        <hr>
+        <!--we have set the size of the image to width = 400px and the height = 150px-->
+
+        <!--we can also set the size of the image by using the style attribute-->
+        <h2>Image using style attribute to set the size</h2>
+        <img src="ImageFolder/youtube_logo.jpg" alt="YouTube Logo" style="width:400px;height:150px;">
+        <hr>
+        <!--
+            we are more encourage to use style attribute to set the size of an image so we can prevent
+            from changing the size of images in the styles sheets
+        -->
+
+        <!--besides folder pathway, we can also use the link address to display the image-->
+        <h2>Display image with link address</h2>
+        <img src="https://www.w3schools.com/images/w3schools_green.jpg" alt="W3Schools.com">
+        <hr>
+        <!--A w3schools logo is displayed on the webpage-->
+
+        <!--Animated image example-->
+        <h2>Animated Image</h2>
+        <img src="ImageFolder/coding.gif" alt="Computer Man" style="width:150px;height:150px;">
+        <!--An animated image is displayed on the webpage (we can use .gif extension to insert the animated images)-->
+    </body>
+</html>

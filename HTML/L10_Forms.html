@@ -1,0 +1,120 @@
+<!--
+    Learning 10 : Forms in HTML
+
+    Notes :
+    A HTML form on a web page allows a user to enter data will be sent to a server for processing.
+    We can use form to enter product information or personal information into the website or use it to retrieve search
+    results from a search engine.
+
+    If we want to create a form, we need to enclosed the details with <form> tag.
+
+    There are many types of input types or elements can used to create a form :
+    1) <input type="text"> — a simple text box that allows input of a single line of text.
+    2) <input type="password"> - it is used for security purposes, in which the characters typed in are invisible or replaced by symbols such as *
+    3) <input type="submit"> - Defines a submit button to submit the form to server
+    4) <input type="reset"> - Defines a reset button to reset all values in the form.
+    5) <input type="radio"> - Defines a submit button to submit the form to server
+    6) <input type="checkbox"> - Defines checkboxes which allow select multiple options form.
+    7) <input type="button"> - Defines a simple push button, which can be programmed to perform a task on an event.
+    8) <input type="file"> - Defines to select the file from device storage.
+    9) <input type="image"> - Defines a graphical submit button.
+    10) <input type="color"> - Defines an input field with a specific color.
+    11) <input type="date"> - Defines an input field for selection of date.
+    12) <input type="datetime-local"> - Defines an input field for entering a date without time zone.
+    13) <input type="month"> Defines a control with month and year, without time zone.
+    14) <input type="number"> Defines an input field to enter a number.
+    15) <input type="url"> - Defines a field for entering URL
+    16) <input type="week"> - Defines a field to enter the date with week-year, without time zone.
+    17) <input type="search"> - Defines a single line text field for entering a search string.
+    18) <input type="tel"> - Defines an input field for entering the telephone number.
+
+    We can use all the input type listed on above to create the form that helps us to collect different kind of information
+    from the user.
+-->
+
+<!DOCTYPE html>
+<html>
+
+	<head>
+		<title>Form in HTML</title>
+	</head>
+	<body>
+		
+		<form>
+			<label for="first_name">First Name:</label>
+			<input type="text" id="first_name" name="first_name" placeholder="Spongebob">
+
+			<br><br>
+
+			<label for="last_name">Last Name:</label>
+			<input type="text" id="last_name" name="last_name" placeholder="Squarepants">
+
+			<br><br>
+
+			<label for="title">Title:</label>
+
+			<label for="Mr.">Mr.</label>
+			<input type="radio" value="Mr." id="Mr." name="title">
+			<label for="Mrs.">Mrs.</label>
+			<input type="radio" value="Mrs." id="Mrs." name="title">
+			<label for="Miss.">Miss.</label>
+			<input type="radio" value="Miss." id="Miss." name="title">
+			<label for="PhD">PhD</label>
+			<input type="radio" value="PhD." id="PhD." name="title">
+
+  			<br><br>
+
+  			<label for="payment">Payment:</label>
+
+  			<select id="payment" name="payment">
+  				<option value="visa">visa</option>
+  				<option value="mastercard">mastercard</option>
+  				<option value="giftcard">giftcard</option>
+  				<option value="check">check</option>
+  			</select>
+
+  			<br><br>
+
+ 			<label for="email">Email:</label>
+ 			<input type="email" id="email" name="email" placeholder="SSquarepants@gmail.com">
+
+  			<br><br>
+
+  			<label for="birthday">Birthday:</label>
+  			<input type="date" id="birthday" name="birthday">
+
+  			<br><br>
+
+  			<label for="quantity">Quantity:</label>
+  			<input type="number" id="quantity" name="quantity" min="0" max="99" value="1">
+
+ 	 		<br><br>
+
+ 	 		<label for="phone">Phone #:</label>
+ 	 		<input type="tel" id="phone" name="phone">
+
+			<br><br>
+
+			<label for="pass">Password:</label>
+			<input type="password" id="pass" name="pass" maxlength="12">
+			max 12 characters
+			<br><br>
+
+			<label for="slider">Rate us:</label>
+			1<input type="range" step="25" value="100">5
+  			<br><br>
+
+  			<label for="subscribe">Subscribe
+  			<input type="checkbox" id="subscribe" name="subscribe">
+			<br><br>
+
+			<label for="myfile">upload a file:</label>
+			<input type="file" id="myfile" name="myfile" accept=".txt">
+
+			<br><br>
+
+			<input type="reset">
+			<input type="submit">
+		</form>		
+	</body>
+</html>
