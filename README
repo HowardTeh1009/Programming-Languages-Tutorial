@@ -1,13 +1,11 @@
-Welcome to the HyperText Markup Language (HTML) tutorial!
+Welcome to the Cascading Style Sheets (CSS) tutorial!
 
 Introduction to HTML 
-- HTML is a markup language that used to formed the backbone or structure of a web page.
-  We are able to use HTML to build a web page than is clean and stunning.
+- CSS is a style sheet language that used for describing the presentation of a HTML document.
 
 Advantages of learning HTML :
-1) HTML is EASY to learn and use.
-2) HTML is FREE!
-3) HTML is platform-independent
+1) CSS can be used for webpage design.
+2) CSS can save our work as it can be used to control multiple web pages at once.
 
 Disclaimer :
 All the notes and resources that uploaded in this repository is not guarantee 100% correct and accurate. If you have found out
