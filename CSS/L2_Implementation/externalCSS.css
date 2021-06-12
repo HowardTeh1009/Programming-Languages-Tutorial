@@ -1,0 +1,15 @@
+/*use to change the font family inside the body*/
+body{
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+/*set the height & color of the horizontal line*/
+hr{
+    height: 15px;
+    background-color: red;
+}
+
+/*change the <p> tag to blue color*/
+p{
+    color: blue;
+}

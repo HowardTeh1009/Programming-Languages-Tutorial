@@ -1,0 +1,44 @@
+<!--
+    Internal Style Sheets
+
+    Notes:
+    With an internal style sheets, we are able to change the design or style only one
+    single HTML page that has a unique style.
+
+    We can create an internal style sheets within the <head> section 
+    using <style> element.
+-->
+
+<!DOCTYPE HTML>
+<html>
+    <head>
+        <title>Internal Style Sheet</title>
+
+        <!--use internal style sheet to style this entire webpage-->
+        <!--create an internal style sheet using <style> element-->
+        <style>
+            /*use to change the font family inside the body*/
+            body{
+                font-family: Arial, Helvetica, sans-serif;
+            }
+
+            /*set the height & color of the horizontal line*/
+            hr{
+                height: 15px;
+                background-color: red;
+            }
+
+            /*change the <p> tag to blue color*/
+            p{
+                color: blue;
+            }
+        </style>
+    </head>
+
+    <body>
+        <h1>Internal Style Sheet in HTML</h1>
+        <hr>
+        <h2>We are going to style this page using internal style sheet.</h2>
+        <p>This paragraph is blue color.</p>
+    </body>
+</html>

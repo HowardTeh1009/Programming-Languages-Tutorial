@@ -1,0 +1,12 @@
+/*we can style our website by writing the design codes at here*/
+/*we are going to style the <h1> & <p> tags*/
+h1{
+    color: red;
+}
+
+p{
+    color: blue;
+    font-size: 25px;
+}
+
+/*We are going to learn more in future!*/

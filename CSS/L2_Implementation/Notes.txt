@@ -1,0 +1,40 @@
+Learning 2 : Implementation in HTML
+
+Notes:
+There are three ways of inserting style sheet into the HTML.
+
+Ways/Methods to insert Cascading Style Sheet :
+i) External CSS
+- we can create an external style sheet and link the style sheet
+  into the HTML file.
+- we can change and style the website by coding and changing the 
+  design in this external style sheet.
+(refer to external.html & external.css)
+
+ii) Internal CSS
+- we can use an internal style sheet to style one single HTML page
+  that has a unique style.
+- to create an internal style sheet, we can use <style> element in
+  the <head> session.
+(refer to internal.html)
+
+iii) Inline CSS
+- this is used to style one single element only.
+- usually we use Inline CSS to apply an unique style for one element.
+- To add Inline CSS, we can add the style attribute into the element 
+  that we want to style.
+(refer to inline.html)
+
+Cascading Order :
+All the styles in a page will "cascade" into a new "virtual" style sheet by the following rules, where number one has the highest priority:
+
+1) Inline style (inside an HTML element)
+2) External and internal style sheets (in the head section)
+
+Inline style will has the highest priority and will override the settings
+in the external and internal style sheets.
+
+Summary of the chapter :
+1) External CSS - is used to style multiple HTML file
+2) Internal CSS - is used to style only one HTML file
+3) Inline CSS   - is used to style only one HTML element

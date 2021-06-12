@@ -1,0 +1,56 @@
+p.dotted{
+    border-style: dotted; /*set the pattern of the border to dotted pattern*/
+    border-width: thin; /*we can use pre-defined values to set the border-width*/
+}
+
+p.dashed{
+    border-style: dashed;
+    border-width: 5px; /*we can use specific size to set the border-width*/
+
+}
+
+p.solid{
+    border-style: solid;
+    border-color: tomato; /*set the color of the border*/
+}
+
+p.double{
+    border: 5px double red; /*use shorthand to define the border properties*/
+}
+
+p.groove{
+    border-style: groove;
+    border-radius: 10px; /*use to create a rounded border radius*/
+}
+
+p.ridge{
+    border-style: ridge;
+}
+
+p.inset{
+    border-style: inset;
+}
+
+p.outset{
+    border-style: outset;
+}
+
+p.none{
+    border-style: none;
+}
+
+p.hidden{
+    border-style: hidden;
+}
+
+p.mix{
+    border-style: dotted dashed solid double;
+}
+
+/*
+    - border-style is used to set the pattern of the border
+    - border-width is used to set the width of the border
+    - border-color is used to set the color of the border
+    - border-radius is used to set the border to rounded border
+*/
+

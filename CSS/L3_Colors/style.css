@@ -1,0 +1,9 @@
+h2{
+    background-color: dodgerblue; /*set the background color of <h2> text*/
+    color: white; /*set the text color*/
+    text-align: center;
+}
+
+p{
+    background-color: teal; /*set the background color of <p>*/
+}

@@ -1,0 +1,8 @@
+/* set the margin of the div */
+div{
+    margin-top: 100px;
+    margin-right: 150px;
+    margin-bottom: 100px;
+    margin-left: 80px;
+    border: 1px solid black;
+}
