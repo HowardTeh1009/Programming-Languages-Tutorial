@@ -1,10 +1,13 @@
-In this repository, I will be uploading the tutorials for Web Development such as HTML, CSS, JavaScript, PHP, mySQL and etc. 
+Welcome to JavaScript tutorial! 
 
-How to access to the tutorial?
-Step 1 : Select the branch that you wish to view.
-Step 2 : Inside the branch, there will be a README file for the introduction and a zip file that containing all the sources codes.
-Step 3 : You may download the zip files and start your learning.
-Step 4 : Enjoy the process!
+Why should we use JavaScript?
+- modify the content of a web page by adding or removing elements.
+- change the style and position of the elements on a web page.
+- monitor events like mouse click, hover, etc. and react to it.
+- perform and control transitions and animations.
+- create alert pop-ups to display info or warning messages to the user.
+- perform operations based on user inputs and display the results.
+- validate user inputs before submitting it to the server.
 
 Disclaimer :
 All the notes and resources that uploaded in this repository is not guarantee 100% correct and accurate. If you have found out
