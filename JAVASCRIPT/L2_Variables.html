@@ -1,0 +1,65 @@
+<!--
+        Learning 2 : Variables in JavaScript
+
+        Notes:
+        What is Variable?
+        Variables are usually used to store data that we need to use in the whole program or webpage. We can use the variables to set,
+        update and retrive data that stored in the variables whenever needed. 
+
+        In general, varibles are the symbolic names for the values.
+
+        Naming rules for JavaScript variables:
+        - the variable name need to start with a letter, underscore(_) or dollar sing($)
+        - the variable name can only contain alpha-numeric characters such as (A-z) & (0-9) or underscores
+        - the variable name cannot contain any white spaces. We can use underscore(_) to indicate space
+        - the variable name cannot declare by using the reserved keywords in JavaScript
+
+        How to declare a variable?
+        Step 1 : create a variable by using "var" keyword
+        Step 2 : use the assignment operator (=) to assign the value to a variable
+        For example: var name = "John Doe";
+
+        We can also create the variable and assign the value afterwards. For example :
+        var name;
+        name = "John Doe";
+
+        Tips of declaring a variable:
+        - always give meaningful names to your variables
+        - we can include camelCase if we got multiple words in a variable
+-->
+
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>JavaScript Variables</title>
+    </head>
+
+    <body>
+        <h1>Variables in JavaScript</h1>
+
+        <script>
+            // declare the variables with the initialization
+            var name = "John Doe";
+            var age = 15;
+            var isStudent = true;
+
+            // declare a variable and initiatise the variable later
+            var userName; // empty variable
+            userName = "john123"; // assign "john123" into the userName variable
+
+            // we can also declare multiple variables in a single by separating them using coma (,)
+            var movieName = "X-Men", director = "JohnD", price = 15.00;
+
+            // declare the variables using "let" and "const" keywords
+            // "let" and "const" are having the same function but variable that created using "const" keyword can be reassigned later in the code.
+
+            // using "let" keyword
+            let charName = "Harry Potter";
+            let charAge = 11;
+
+            // using "const" keyword
+            const PI = 3.14;
+        </script>
+    </body>
+</html>
+

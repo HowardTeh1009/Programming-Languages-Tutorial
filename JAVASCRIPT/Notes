@@ -1,0 +1,13 @@
+What is JavaScript?
+- JavaScript is one of the most popular client-side scripting languages in the world. Client-side scripting language refers
+  to the scripts that run within the web browser. 
+- Altho the systax of JavaScript has some similarities to Java Programming Language, but it is not related to Java in any way.
+
+What can we do with JavaScript?
+- modify the content of a web page by adding or removing elements.
+- change the style and position of the elements on a web page.
+- monitor events like mouse click, hover, etc. and react to it.
+- perform and control transitions and animations.
+- create alert pop-ups to display info or warning messages to the user.
+- perform operations based on user inputs and display the results.
+- validate user inputs before submitting it to the server.

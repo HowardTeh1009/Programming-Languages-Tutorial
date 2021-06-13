@@ -1,0 +1,85 @@
+<!--
+        Learning 3 : Data Types in JavaScript
+
+        Notes:
+        What is Data Types?
+        Data Types are used to specify what type of data that we want to store inside within a variable or a program. \
+
+        Types of data types in JavaScripts:
+        - String
+        - Number
+        - Boolean
+        - Object
+        - Array
+        - Function
+
+        String, Number & Boolean are primitive data type which can object store one value at one time.
+        Obejct, Array & Functionare compostite data types which can store a collections os values at one time.
+
+        JavaScript also has a few special data types such as Undefined data type and Null data type.
+-->
+
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>JavaScript Data Types</title>
+    </head>
+
+    <body>
+        <h1>Data Types in JavaScript</h1>
+        <hr>
+
+        <script>
+            // declare the string variable with using single quote ('') or double quoto ("") to hold string value
+            var a = "Good Morning"; // using double quotes
+            var name = 'John Doe';  // using single quotes
+
+            /* 
+                declare the number variable by initialising the value by using positive or negative numbers with or without decimal places
+                the number can also be written in exponential notation
+             */
+            var num2 = 25;         // integer (whole number)
+            var num2 = 80.5;       // floating-point number (decimal number)
+            var num3 = 4.25e+6;    // exponential notation, same as 4.25e6 or 4250000
+            var num4 = 4.25e-6;    // exponential notation, same as 0.00000425
+
+            /* 
+                declare the boolean data type by initialising the value of "true" and "false"
+                boolean data type usually used to store the value that is yes(true) or no(false)
+            */
+            var isJohnReading = true;   // this shows that John is reading
+            var isJohnSleeping = false; // this shows that John is not sleeping
+
+            // declare the object data type that allows us to store a collection of data
+            var person = {"name": "Clark", "surname": "Kent", "age": "36"};
+     
+            // for better reading and code arrangement
+            var car = {
+                "modal": "BMW X3",
+                "color": "white",
+                "doors": 5
+            }
+
+            /* 
+                declare an array which can be used for storing multiple values in a single variable. The value in an array can be called an element.
+                All the index array is starts from [0]
+            */
+            var colors = ["Red", "Yellow", "Green", "Orange"];
+            var cities = ["London", "Paris", "New York"];
+        
+            /*
+                declare a function which can act as a callable object that can be used to executes a block of codes.
+                function is useful to perform repetitive task
+            */
+            function greet(name){
+                return "Hello, " + name;
+            }
+            function displayGreetMessage(greetingFunction, userName){
+                return greetingFunction(userName);
+            }
+            
+            var result = displayGreetMessage(greet, "Peter");
+            alert(result); // Output: Hello, Peter
+        </script>
+    </body>
+</html>

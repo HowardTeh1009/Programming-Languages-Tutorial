@@ -1,0 +1,49 @@
+<!--
+    Learning 10 : Function in JavaScript
+
+    Notes:
+    We usually use function to perform certain action once the function is being called.
+    Tips : Write the function that perform only one action!
+
+    Benefits of using function in JavaScript :
+    - Functions reduces the repetition of code within a program.
+    - Functions makes the code much easier to maintain.
+    - Functions makes it easier to eliminate the errors.
+-->
+
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>Function in JavaScript</title>
+    </head>
+
+    <body>
+        <script>
+            // declare the method outside of main method
+            function printStatement(){
+                document.write("Welcome to Methods lesson. This function is used to print statement.");
+            }
+
+            // declare a area calculator method with the parameter
+            function areaCalculator(length, width){ // the parameter inside this method are length & width
+                var area;
+                return area = length * width; // we gonna return the area at the end of the method
+            }
+
+            // declare a method that display the student name with parameter
+            function studentInformation(studName, year){ // the studName and year are the parameter for this method
+                document.write("Student Info : " + studName + year); // we use this method to display the student info
+            }
+
+            printStatement(); // call the printStatement method at here
+            document.write("<br>");
+
+            document.write(areaCalculator(25,30) + "<br>"); // we passed the length 25 and width 30 into this function
+                                                            // Output : 750 because area = length * width at the end of the method
+
+            studentInformation("John Doe ", 2020); // call the studentInformation()
+                                                                           // pass the John Doe into studName and 2020 into year    
+                                                                           // Output : Student Info : John Doe2020  
+        </script>
+    </body>
+</html>

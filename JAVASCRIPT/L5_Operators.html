@@ -1,0 +1,118 @@
+<!--
+    Learning 5 : Operators in JavaScript
+
+    Notes:
+    Operators are used to perform some operations on variables and values in Java.
+    Operators in Java :
+        1) Arithmetic Operators - perform common mathematical operations
+        2) Assignment Operators - used to assign values to variables
+        3) Comparison Operators - used to compare between variables
+        4) Logical Operators    - used to determine the logic between variables
+        5) String Operator      - used for string purpose
+-->
+
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>Operators in JavaScript</title>
+    </head>
+
+    <body>
+        <h3>Operators in  JavaScript</h3>
+        <hr>
+        <script>
+            // Arithmetic Operator (+ - * / %)
+            var num1 = 10, num2 = 15;
+            document.write("Arithmetic Operator <br>")
+
+            document.write("Num1 + Num2 = ");
+            document.write(num1+num2 + "<br>"); // Output : 25
+
+            document.write("Num1 - Num2 = ");
+            document.write(num1-num2 + "<br>"); // Output : -5
+
+            document.write("Num1 * Num2 = ");
+            document.write(num1*num2 + "<br>"); // Output : 150
+
+            document.write("Num1 / Num2 = ");
+            document.write(num1/num2 + "<br>"); // Output : 0.666666666666
+
+            document.write("Num1 % Num2 = ");
+            document.write(num1%num2 + "<br><br>"); // Output : 10
+            document.write("<hr>");
+
+            // Assignment Operator
+            var x;
+            document.write("Assignment Operator <br>")
+            x = 10;
+            document.write(x + "<br>"); // Prints: 10
+            
+            x = 20;
+            x += 30;
+            document.write(x + "<br>"); // Prints: 50
+            
+            x = 50;
+            x -= 20;
+            document.write(x + "<br>"); // Prints: 30
+            
+            x = 5;
+            x *= 25;
+            document.write(x + "<br>"); // Prints: 125
+            
+            x = 50;
+            x /= 10;
+            document.write(x + "<br>"); // Prints: 5
+            
+            x = 100;
+            x %= 15;
+            document.write(x + "<br><br>"); // Prints: 10
+            document.write("<hr>");
+
+            // Increment & Decrement Operator
+            var y; // Declaring Variable
+            document.write("Increment & Decrement Operator <br>")
+            y = 10;
+            document.write(++y + "<br>"); // Prints: 11
+            document.write(y + "<br>");   // Prints: 11
+            
+            y = 10;
+            document.write(y++ + "<br>"); // Prints: 10
+            document.write(y + "<br>");   // Prints: 11
+            
+            y = 10;
+            document.write(--y + "<br>"); // Prints: 9
+            document.write(y + "<br>");   // Prints: 9
+            
+            y = 10;
+            document.write(y-- + "<br>"); // Prints: 10
+            document.write(y + "<br><br>");   // Prints: 9
+            document.write("<hr>");
+
+            // Logical Operator
+            document.write("Logical Operator <br>")
+
+            var year = 2018;
+ 
+            // Leap years are divisible by 400 or by 4 but not 100
+            if((year % 400 == 0) || ((year % 100 != 0) && (year % 4 == 0))){
+                document.write(year + " is a leap year. <br><br><hr>");
+            } else{
+                document.write(year + " is not a leap year. <br><br><hr>");
+            }
+
+            // Comparison Operator
+            var x = 25;
+            var y = 35;
+            var z = "25";
+            
+            alert(x == z);  // Outputs: true
+            alert(x === z); // Outputs: false
+            alert(x != y);  // Outputs: true
+            alert(x !== z); // Outputs: true
+            alert(x < y);   // Outputs: true
+            alert(x > y);   // Outputs: false
+            alert(x <= y);  // Outputs: true
+            alert(x >= y);  // Outputs: false
+        </script>     
+    </body>
+</html>

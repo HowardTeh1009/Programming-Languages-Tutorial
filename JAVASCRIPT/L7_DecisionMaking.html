@@ -1,0 +1,71 @@
+<!--
+    Learning 7 : Decision Making using JavaScript
+
+    Notes:
+    In our daily life, we need to deal with a lot of decision making. It is the same in programming too!
+    Methods of Decision Making in JavaScript :
+        1) if statement      = tell the program to execute a block of code if a specific condition is true
+        2) else statement    = tell the program to execute another block of code if the same condition is false
+        3) else if statement = tell the program to execute the code with new condition is the 1st condition is false
+        4) switch statement  = to specify different alternative blocks of code to be executed
+-->
+
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>Decision Making in JavaScript</title>
+    </head>
+
+    <body>
+        <script>
+            var x = 20, y = 25;
+
+            //if statement
+            if(x == y){
+                document.write("True <br>"); // only will print True if the condition is true (none output because the condition is false)
+            }
+
+            //with else statement
+            if(x == y){
+                document.write("True <br>");
+            } else {
+                document.write("False <br>"); // will execute this code if the first condition is wrong
+            }
+
+            //else if statement
+            if(x == y){
+                document.write("True <br>");
+            } else if (x < y){
+                document.write("X is smaller than Y <br>"); // will execute this line because 2nd condition is true
+            } else {
+                document.write("False <br>");
+            }
+
+            //switch statement
+            var day = 4;
+            switch (day) {
+                case 1:
+                    document.write("Monday <br>");
+                    break;
+                case 2:
+                    document.write("Tuesday <br>");
+                    break;
+                case 3:
+                    document.write("Wednesday <br>");
+                    break;
+                case 4:
+                    document.write("Thursday <br>"); // Outputs "Thursday" (day 4)
+                    break;
+                case 5:
+                    document.write("Friday <br>");
+                    break;
+                case 6:
+                    document.write("Saturday <br>");
+                    break;
+                case 7:
+                    document.write("Sunday <br>");
+                    break;
+            }
+        </script>
+    </body>
+</html>

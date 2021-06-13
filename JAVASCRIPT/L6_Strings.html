@@ -1,0 +1,57 @@
+<!--
+    Learning 6 : Strings in JavaScript
+
+    Notes:
+    JavaScript string is a sequence of letters, numbers and special characters. We can
+    create a string by enclosing everthing by using single quote ('') or double quotes ("").
+
+    We can also use string function in JavaScript to manipulate strings in JavaScript.
+-->
+
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>Strings in JavaScript</title>
+    </head>
+
+    <body>
+        <script>
+            document.write("<h1>" + "Strings in JavaScript" + "</h1>");
+
+            // ways to create string
+            var myString = "Hello World";  // enclosed with double quotes ("")
+            var myString1 = 'Hello World'; // enclosed with single quote ('')
+
+            // display the strings
+            document.write(myString + "<br>");
+            document.write(myString1 + "<br><br><hr>");
+
+            // String Length - we can use .length method to calculate the string length
+            var str1 = "This is a paragraph of text.";
+
+            document.write("<h3>" + "Length of a string <br>" + "</h3>");
+
+            // display the length of str1
+            document.write(str1 + " String Length = " + str1.length); // Output : String Length = 28 (str1.length is used to calculate the length of string)
+            document.write("<hr>")
+
+            // String Position - We can use indexOf() method to find a substring within another string
+            var string = "Welcome to JavaScript tutorial.";
+            var position = string.indexOf("JavaScript"); // calculate the index position of the "JavaScript" inside the string
+
+            document.write("<h3>" + "Position of a string <br>" + "</h3>");
+            document.write(string + "<br>");
+            document.write("The index position of \"JavaScript\" is " + position + "."); // Output : The index position of "JavaScript" is 11.
+            document.write("<br><hr>")
+
+            // String Casting - we can use toUpperCase() or toLowerCase() to convert the string to uppercase or lowercase string
+            var str = "Hello World!";
+            var upp = str.toUpperCase(); // convert the string to uppercase
+            var low = str.toLowerCase(); // convert the string to lowercase
+
+            document.write("<h3>" + "String Casting <br>" + "</h3>");
+            document.write(upp + "<br>"); // Prints: HELLO WORLD!
+            document.write(low + "<br>"); // Prints: hello world!
+        </script>
+    </body>
+</html>

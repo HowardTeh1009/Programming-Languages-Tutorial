@@ -1,0 +1,55 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>Arrays in JavaScript</title>
+    </head>
+
+    <body>
+        <script>
+            // Way to declare an array
+            var carBrands = ["BMW", "Mercedes", "Proton", "Toyota"]; // enclosing a comma-separated list of values in square brackets 
+
+
+            // We can use for loop to display all the element inside the array
+            // You can use normal for loop as well. Just for-each method is easier to write and do not require a counter
+            for (var index = 0; index <carBrands.length ; index++){
+                document.write(carBrands[index] + "<br>");
+            }
+            /*Output:
+                BMW
+                Mercedes
+                Proton
+                Toyota
+            */
+
+            /*
+            How to access your specific element of an array
+            Same as C, the element always start from index 0
+            Here we are going to display the 1st element inside the carBrands array
+            */
+            document.write(carBrands[1] + "<br>"); // Output : Mercedes
+
+            // If you want to change the value of an element, you just need to state the exact index number and initialise with the new value
+            carBrands[3] = "Mustang";
+            document.write(carBrands[3] + "<br>"); // Output : Mustang (the previous value of the 3rd element was Toyota
+
+            // Getting the length or the numbers element of an array
+            // use length()
+            document.write(carBrands.length + "<br>"); // Output : 4 because there is 4 elements inside carBrands array
+
+            // Adding new elements into the array
+            var colors = ["Red", "Green", "Blue"]; 
+            colors.push("Yellow"); // add the element at the end of the array
+            colors.unshift("White"); // add the element start from the beginning of the array
+            
+            document.write(colors + "<br>"); // Prints: White,Red,Green,Blue,Yellow
+            document.write(colors.length + "<br>"); // Prints: 4
+
+            // Removing elements from the array
+            var last = colors.pop(); // remove element using pop() method
+
+            document.write(last + "<br>"); // Prints: Blue
+            document.write(colors.length + "<br>"); // Prints: 
+        </script>
+    </body>
+</html>

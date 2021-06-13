@@ -1,0 +1,46 @@
+<!--
+        Learning 4 : Generating output in JavaScript
+
+        Notes:
+        What is Data Types?
+        In JavaScript, we can use different kind of methods to generate output from our codes that are written in the scripts.
+        For example, we can write codes to display the value of variable or write a message to the browser console to help us debug
+        an issue when we running our JavaScript code.
+
+        Ways of displaying or generating output using JavaScript:
+        - writing output to the browser console
+        - display the output in a dialog box
+        - display the output on the webpage content
+        - writing output into an HTML element
+-->
+
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>Output in JavaScript</title>
+    </head>
+
+    <body>
+        <h1>Ways to generate outputs using JavaScript</h1>
+        <hr>
+
+        <p id="display"></p> <!--get the properties from the scripts through the tag's ID-->
+
+        <script>
+            // generate output to browser console using console.log() function
+            console.log("Hello World"); // Output : Hello World in the browser console
+
+            // generate output by displaying them in a dialog box using alert() function
+            alert("Hello World"); // Output : showing "Hello World" in an alert box/dialog box
+
+            // generate the ouput by displaying the output on the webpage
+            document.write("Hello World");  // Output : Hello World in the webpage
+
+            // adding output into the HTML element
+            document.getElementById("display").innerHTML = "Hello World"; // assign the value into the <p> tag using the tag's ID
+        </script>
+
+        
+
+    </body>
+</html>
