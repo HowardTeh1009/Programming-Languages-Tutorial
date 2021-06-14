@@ -1,10 +1,19 @@
-In this repository, I will be uploading the tutorials for Web Development such as HTML, CSS, JavaScript, PHP, mySQL and etc. 
+Welcome to Hypertext Preprocessor (PHP) tutorial.
+PHP is stands for Hypertext Preprocessor. It is a very popular and widely-used of server-side scripting language. PHP scripts are executed on the server and the result will be sent to the web browser as plain HTML.
 
-How to access to the tutorial?
-Step 1 : Select the branch that you wish to view.
-Step 2 : Inside the branch, there will be a README file for the introduction and a zip file that containing all the sources codes.
-Step 3 : You may download the zip files and start your learning.
-Step 4 : Enjoy the process!
+What can we do with PHP?
+- generate pages and files dynamically.
+- create, open, read, write and close files on the server.
+- collect data from a web form such as user information, email, phone no, etc.
+- send and receive cookies to track the visitor of your website.
+- store, delete, and modify information in your database.
+- restrict unauthorized access to your website.
+- encrypt data for safe transmission over internet.
+
+Benefits of using PHP:
+- PHP is a programming language that is easy to learn and use.
+- PHP is portability as it is able to be executed or run on various platforms and almost compatible with most of the servers used today.
+- PHP can deliver faster results compared to other scripting languages.
 
 Disclaimer :
 All the notes and resources that uploaded in this repository is not guarantee 100% correct and accurate. If you have found out
