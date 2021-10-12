@@ -1,0 +1,7 @@
+C:\Users\ASUS\Desktop\Howard\Programming Languages\Self Learning\C#\L5_UserInput\bin\Debug\L5_UserInput.exe.config
+C:\Users\ASUS\Desktop\Howard\Programming Languages\Self Learning\C#\L5_UserInput\bin\Debug\L5_UserInput.exe
+C:\Users\ASUS\Desktop\Howard\Programming Languages\Self Learning\C#\L5_UserInput\bin\Debug\L5_UserInput.pdb
+C:\Users\ASUS\Desktop\Howard\Programming Languages\Self Learning\C#\L5_UserInput\obj\Debug\L5_UserInput.csproj.AssemblyReference.cache
+C:\Users\ASUS\Desktop\Howard\Programming Languages\Self Learning\C#\L5_UserInput\obj\Debug\L5_UserInput.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\Desktop\Howard\Programming Languages\Self Learning\C#\L5_UserInput\obj\Debug\L5_UserInput.exe
+C:\Users\ASUS\Desktop\Howard\Programming Languages\Self Learning\C#\L5_UserInput\obj\Debug\L5_UserInput.pdb

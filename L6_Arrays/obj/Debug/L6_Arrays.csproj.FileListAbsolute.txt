@@ -1,0 +1,7 @@
+C:\Users\ASUS\Desktop\Howard\Programming Languages\Self Learning\C#\L6_Arrays\bin\Debug\L6_Arrays.exe.config
+C:\Users\ASUS\Desktop\Howard\Programming Languages\Self Learning\C#\L6_Arrays\bin\Debug\L6_Arrays.exe
+C:\Users\ASUS\Desktop\Howard\Programming Languages\Self Learning\C#\L6_Arrays\bin\Debug\L6_Arrays.pdb
+C:\Users\ASUS\Desktop\Howard\Programming Languages\Self Learning\C#\L6_Arrays\obj\Debug\L6_Arrays.csproj.AssemblyReference.cache
+C:\Users\ASUS\Desktop\Howard\Programming Languages\Self Learning\C#\L6_Arrays\obj\Debug\L6_Arrays.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\Desktop\Howard\Programming Languages\Self Learning\C#\L6_Arrays\obj\Debug\L6_Arrays.exe
+C:\Users\ASUS\Desktop\Howard\Programming Languages\Self Learning\C#\L6_Arrays\obj\Debug\L6_Arrays.pdb

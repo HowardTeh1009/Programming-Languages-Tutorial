@@ -1,0 +1,7 @@
+C:\Users\ASUS\Desktop\Howard\Programming Languages\Self Learning\C#\L2_Variables\bin\Debug\L2_Variables.exe.config
+C:\Users\ASUS\Desktop\Howard\Programming Languages\Self Learning\C#\L2_Variables\bin\Debug\L2_Variables.exe
+C:\Users\ASUS\Desktop\Howard\Programming Languages\Self Learning\C#\L2_Variables\bin\Debug\L2_Variables.pdb
+C:\Users\ASUS\Desktop\Howard\Programming Languages\Self Learning\C#\L2_Variables\obj\Debug\L2_Variables.csproj.AssemblyReference.cache
+C:\Users\ASUS\Desktop\Howard\Programming Languages\Self Learning\C#\L2_Variables\obj\Debug\L2_Variables.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\Desktop\Howard\Programming Languages\Self Learning\C#\L2_Variables\obj\Debug\L2_Variables.exe
+C:\Users\ASUS\Desktop\Howard\Programming Languages\Self Learning\C#\L2_Variables\obj\Debug\L2_Variables.pdb

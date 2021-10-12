@@ -1,0 +1,7 @@
+C:\Users\ASUS\Desktop\Howard\Programming Languages\Self Learning\C#\L4_String\bin\Debug\L4_String.exe.config
+C:\Users\ASUS\Desktop\Howard\Programming Languages\Self Learning\C#\L4_String\bin\Debug\L4_String.exe
+C:\Users\ASUS\Desktop\Howard\Programming Languages\Self Learning\C#\L4_String\bin\Debug\L4_String.pdb
+C:\Users\ASUS\Desktop\Howard\Programming Languages\Self Learning\C#\L4_String\obj\Debug\L4_String.csproj.AssemblyReference.cache
+C:\Users\ASUS\Desktop\Howard\Programming Languages\Self Learning\C#\L4_String\obj\Debug\L4_String.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\Desktop\Howard\Programming Languages\Self Learning\C#\L4_String\obj\Debug\L4_String.exe
+C:\Users\ASUS\Desktop\Howard\Programming Languages\Self Learning\C#\L4_String\obj\Debug\L4_String.pdb

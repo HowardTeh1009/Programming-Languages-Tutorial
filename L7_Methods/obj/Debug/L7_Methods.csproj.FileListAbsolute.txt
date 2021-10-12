@@ -1,0 +1,7 @@
+C:\Users\ASUS\Desktop\Howard\Programming Languages\Self Learning\C#\L7_Methods\bin\Debug\L7_Methods.exe.config
+C:\Users\ASUS\Desktop\Howard\Programming Languages\Self Learning\C#\L7_Methods\bin\Debug\L7_Methods.exe
+C:\Users\ASUS\Desktop\Howard\Programming Languages\Self Learning\C#\L7_Methods\bin\Debug\L7_Methods.pdb
+C:\Users\ASUS\Desktop\Howard\Programming Languages\Self Learning\C#\L7_Methods\obj\Debug\L7_Methods.csproj.AssemblyReference.cache
+C:\Users\ASUS\Desktop\Howard\Programming Languages\Self Learning\C#\L7_Methods\obj\Debug\L7_Methods.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\Desktop\Howard\Programming Languages\Self Learning\C#\L7_Methods\obj\Debug\L7_Methods.exe
+C:\Users\ASUS\Desktop\Howard\Programming Languages\Self Learning\C#\L7_Methods\obj\Debug\L7_Methods.pdb

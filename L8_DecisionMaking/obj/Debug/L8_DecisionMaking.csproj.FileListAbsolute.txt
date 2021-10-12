@@ -1,0 +1,7 @@
+C:\Users\ASUS\Desktop\Howard\Programming Languages\Self Learning\C#\L8_DecisionMaking\bin\Debug\L8_DecisionMaking.exe.config
+C:\Users\ASUS\Desktop\Howard\Programming Languages\Self Learning\C#\L8_DecisionMaking\bin\Debug\L8_DecisionMaking.exe
+C:\Users\ASUS\Desktop\Howard\Programming Languages\Self Learning\C#\L8_DecisionMaking\bin\Debug\L8_DecisionMaking.pdb
+C:\Users\ASUS\Desktop\Howard\Programming Languages\Self Learning\C#\L8_DecisionMaking\obj\Debug\L8_DecisionMaking.csproj.AssemblyReference.cache
+C:\Users\ASUS\Desktop\Howard\Programming Languages\Self Learning\C#\L8_DecisionMaking\obj\Debug\L8_DecisionMaking.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\Desktop\Howard\Programming Languages\Self Learning\C#\L8_DecisionMaking\obj\Debug\L8_DecisionMaking.exe
+C:\Users\ASUS\Desktop\Howard\Programming Languages\Self Learning\C#\L8_DecisionMaking\obj\Debug\L8_DecisionMaking.pdb
