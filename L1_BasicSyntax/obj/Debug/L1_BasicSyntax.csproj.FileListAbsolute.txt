@@ -1,0 +1,7 @@
+C:\Users\ASUS\Desktop\Howard\Programming Languages\Self Learning\C#\L1_BasicSyntax\bin\Debug\L1_BasicSyntax.exe.config
+C:\Users\ASUS\Desktop\Howard\Programming Languages\Self Learning\C#\L1_BasicSyntax\bin\Debug\L1_BasicSyntax.exe
+C:\Users\ASUS\Desktop\Howard\Programming Languages\Self Learning\C#\L1_BasicSyntax\bin\Debug\L1_BasicSyntax.pdb
+C:\Users\ASUS\Desktop\Howard\Programming Languages\Self Learning\C#\L1_BasicSyntax\obj\Debug\L1_BasicSyntax.csproj.AssemblyReference.cache
+C:\Users\ASUS\Desktop\Howard\Programming Languages\Self Learning\C#\L1_BasicSyntax\obj\Debug\L1_BasicSyntax.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\Desktop\Howard\Programming Languages\Self Learning\C#\L1_BasicSyntax\obj\Debug\L1_BasicSyntax.exe
+C:\Users\ASUS\Desktop\Howard\Programming Languages\Self Learning\C#\L1_BasicSyntax\obj\Debug\L1_BasicSyntax.pdb
