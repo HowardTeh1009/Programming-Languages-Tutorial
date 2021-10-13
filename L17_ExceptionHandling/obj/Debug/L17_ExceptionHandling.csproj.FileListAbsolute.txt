@@ -1,0 +1,6 @@
+C:\Users\ASUS\Desktop\Howard\Programming Languages\Self Learning\C#\L17_ExceptionHandling\bin\Debug\L17_ExceptionHandling.exe.config
+C:\Users\ASUS\Desktop\Howard\Programming Languages\Self Learning\C#\L17_ExceptionHandling\bin\Debug\L17_ExceptionHandling.exe
+C:\Users\ASUS\Desktop\Howard\Programming Languages\Self Learning\C#\L17_ExceptionHandling\bin\Debug\L17_ExceptionHandling.pdb
+C:\Users\ASUS\Desktop\Howard\Programming Languages\Self Learning\C#\L17_ExceptionHandling\obj\Debug\L17_ExceptionHandling.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\Desktop\Howard\Programming Languages\Self Learning\C#\L17_ExceptionHandling\obj\Debug\L17_ExceptionHandling.exe
+C:\Users\ASUS\Desktop\Howard\Programming Languages\Self Learning\C#\L17_ExceptionHandling\obj\Debug\L17_ExceptionHandling.pdb
