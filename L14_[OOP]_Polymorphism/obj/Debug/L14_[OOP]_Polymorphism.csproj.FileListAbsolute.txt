@@ -1,0 +1,6 @@
+C:\Users\ASUS\Desktop\Howard\Programming Languages\Self Learning\C#\L14_[OOP]_Polymorphism\bin\Debug\L14_[OOP]_Polymorphism.exe.config
+C:\Users\ASUS\Desktop\Howard\Programming Languages\Self Learning\C#\L14_[OOP]_Polymorphism\bin\Debug\L14_[OOP]_Polymorphism.exe
+C:\Users\ASUS\Desktop\Howard\Programming Languages\Self Learning\C#\L14_[OOP]_Polymorphism\bin\Debug\L14_[OOP]_Polymorphism.pdb
+C:\Users\ASUS\Desktop\Howard\Programming Languages\Self Learning\C#\L14_[OOP]_Polymorphism\obj\Debug\L14_[OOP]_Polymorphism.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\Desktop\Howard\Programming Languages\Self Learning\C#\L14_[OOP]_Polymorphism\obj\Debug\L14_[OOP]_Polymorphism.exe
+C:\Users\ASUS\Desktop\Howard\Programming Languages\Self Learning\C#\L14_[OOP]_Polymorphism\obj\Debug\L14_[OOP]_Polymorphism.pdb
