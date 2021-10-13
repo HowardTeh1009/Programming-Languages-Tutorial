@@ -1,0 +1,7 @@
+C:\Users\ASUS\Desktop\Howard\Programming Languages\Self Learning\C#\L10_[OOP]_ClassesObjects\bin\Debug\L10_[OOP]_ClassesObjects.exe.config
+C:\Users\ASUS\Desktop\Howard\Programming Languages\Self Learning\C#\L10_[OOP]_ClassesObjects\bin\Debug\L10_[OOP]_ClassesObjects.exe
+C:\Users\ASUS\Desktop\Howard\Programming Languages\Self Learning\C#\L10_[OOP]_ClassesObjects\bin\Debug\L10_[OOP]_ClassesObjects.pdb
+C:\Users\ASUS\Desktop\Howard\Programming Languages\Self Learning\C#\L10_[OOP]_ClassesObjects\obj\Debug\L10_[OOP]_ClassesObjects.csproj.AssemblyReference.cache
+C:\Users\ASUS\Desktop\Howard\Programming Languages\Self Learning\C#\L10_[OOP]_ClassesObjects\obj\Debug\L10_[OOP]_ClassesObjects.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\Desktop\Howard\Programming Languages\Self Learning\C#\L10_[OOP]_ClassesObjects\obj\Debug\L10_[OOP]_ClassesObjects.exe
+C:\Users\ASUS\Desktop\Howard\Programming Languages\Self Learning\C#\L10_[OOP]_ClassesObjects\obj\Debug\L10_[OOP]_ClassesObjects.pdb
