@@ -1,0 +1,7 @@
+C:\Users\ASUS\Desktop\Howard\Programming Languages\Self Learning\C#\L15_[OOP]_Abstraction\bin\Debug\L15_[OOP]_Abstraction.exe.config
+C:\Users\ASUS\Desktop\Howard\Programming Languages\Self Learning\C#\L15_[OOP]_Abstraction\bin\Debug\L15_[OOP]_Abstraction.exe
+C:\Users\ASUS\Desktop\Howard\Programming Languages\Self Learning\C#\L15_[OOP]_Abstraction\bin\Debug\L15_[OOP]_Abstraction.pdb
+C:\Users\ASUS\Desktop\Howard\Programming Languages\Self Learning\C#\L15_[OOP]_Abstraction\obj\Debug\L15_[OOP]_Abstraction.csproj.AssemblyReference.cache
+C:\Users\ASUS\Desktop\Howard\Programming Languages\Self Learning\C#\L15_[OOP]_Abstraction\obj\Debug\L15_[OOP]_Abstraction.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\Desktop\Howard\Programming Languages\Self Learning\C#\L15_[OOP]_Abstraction\obj\Debug\L15_[OOP]_Abstraction.exe
+C:\Users\ASUS\Desktop\Howard\Programming Languages\Self Learning\C#\L15_[OOP]_Abstraction\obj\Debug\L15_[OOP]_Abstraction.pdb
