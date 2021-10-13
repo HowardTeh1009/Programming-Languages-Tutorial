@@ -1,0 +1,7 @@
+C:\Users\ASUS\Desktop\Howard\Programming Languages\Self Learning\C#\L16_[OOP]_Interface\bin\Debug\L16_[OOP]_Interface.exe.config
+C:\Users\ASUS\Desktop\Howard\Programming Languages\Self Learning\C#\L16_[OOP]_Interface\bin\Debug\L16_[OOP]_Interface.exe
+C:\Users\ASUS\Desktop\Howard\Programming Languages\Self Learning\C#\L16_[OOP]_Interface\bin\Debug\L16_[OOP]_Interface.pdb
+C:\Users\ASUS\Desktop\Howard\Programming Languages\Self Learning\C#\L16_[OOP]_Interface\obj\Debug\L16_[OOP]_Interface.csproj.AssemblyReference.cache
+C:\Users\ASUS\Desktop\Howard\Programming Languages\Self Learning\C#\L16_[OOP]_Interface\obj\Debug\L16_[OOP]_Interface.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\Desktop\Howard\Programming Languages\Self Learning\C#\L16_[OOP]_Interface\obj\Debug\L16_[OOP]_Interface.exe
+C:\Users\ASUS\Desktop\Howard\Programming Languages\Self Learning\C#\L16_[OOP]_Interface\obj\Debug\L16_[OOP]_Interface.pdb
