@@ -42,7 +42,7 @@ namespace L10__OOP__ClassesObjects
             car.mfcYear = 2018;
 
             // display the attributes of the Car class and call the methods from the Car class
-            Console.WriteLine("The color of the car is " + car.plateNo);
+            Console.WriteLine("The color of the car is " + car.color);
             car.accerelate(50);
             
             Console.ReadLine();
