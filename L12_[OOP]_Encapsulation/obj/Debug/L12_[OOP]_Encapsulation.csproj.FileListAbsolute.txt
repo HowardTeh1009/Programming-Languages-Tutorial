@@ -1,0 +1,7 @@
+C:\Users\ASUS\Desktop\Howard\Programming Languages\Self Learning\C#\L12_[OOP]_Encapsulation\bin\Debug\L12_[OOP]_Encapsulation.exe.config
+C:\Users\ASUS\Desktop\Howard\Programming Languages\Self Learning\C#\L12_[OOP]_Encapsulation\bin\Debug\L12_[OOP]_Encapsulation.exe
+C:\Users\ASUS\Desktop\Howard\Programming Languages\Self Learning\C#\L12_[OOP]_Encapsulation\bin\Debug\L12_[OOP]_Encapsulation.pdb
+C:\Users\ASUS\Desktop\Howard\Programming Languages\Self Learning\C#\L12_[OOP]_Encapsulation\obj\Debug\L12_[OOP]_Encapsulation.csproj.AssemblyReference.cache
+C:\Users\ASUS\Desktop\Howard\Programming Languages\Self Learning\C#\L12_[OOP]_Encapsulation\obj\Debug\L12_[OOP]_Encapsulation.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\Desktop\Howard\Programming Languages\Self Learning\C#\L12_[OOP]_Encapsulation\obj\Debug\L12_[OOP]_Encapsulation.exe
+C:\Users\ASUS\Desktop\Howard\Programming Languages\Self Learning\C#\L12_[OOP]_Encapsulation\obj\Debug\L12_[OOP]_Encapsulation.pdb

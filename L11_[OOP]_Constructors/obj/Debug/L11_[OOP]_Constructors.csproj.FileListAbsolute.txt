@@ -1,0 +1,7 @@
+C:\Users\ASUS\Desktop\Howard\Programming Languages\Self Learning\C#\L11_[OOP]_Constructors\bin\Debug\L11_[OOP]_Constructors.exe.config
+C:\Users\ASUS\Desktop\Howard\Programming Languages\Self Learning\C#\L11_[OOP]_Constructors\bin\Debug\L11_[OOP]_Constructors.exe
+C:\Users\ASUS\Desktop\Howard\Programming Languages\Self Learning\C#\L11_[OOP]_Constructors\bin\Debug\L11_[OOP]_Constructors.pdb
+C:\Users\ASUS\Desktop\Howard\Programming Languages\Self Learning\C#\L11_[OOP]_Constructors\obj\Debug\L11_[OOP]_Constructors.csproj.AssemblyReference.cache
+C:\Users\ASUS\Desktop\Howard\Programming Languages\Self Learning\C#\L11_[OOP]_Constructors\obj\Debug\L11_[OOP]_Constructors.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\Desktop\Howard\Programming Languages\Self Learning\C#\L11_[OOP]_Constructors\obj\Debug\L11_[OOP]_Constructors.exe
+C:\Users\ASUS\Desktop\Howard\Programming Languages\Self Learning\C#\L11_[OOP]_Constructors\obj\Debug\L11_[OOP]_Constructors.pdb
