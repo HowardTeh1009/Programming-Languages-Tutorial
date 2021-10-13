@@ -1,0 +1,7 @@
+C:\Users\ASUS\Desktop\Howard\Programming Languages\Self Learning\C#\L13_[OOP]_Inheritance\bin\Debug\L13_[OOP]_Inheritance.exe.config
+C:\Users\ASUS\Desktop\Howard\Programming Languages\Self Learning\C#\L13_[OOP]_Inheritance\bin\Debug\L13_[OOP]_Inheritance.exe
+C:\Users\ASUS\Desktop\Howard\Programming Languages\Self Learning\C#\L13_[OOP]_Inheritance\bin\Debug\L13_[OOP]_Inheritance.pdb
+C:\Users\ASUS\Desktop\Howard\Programming Languages\Self Learning\C#\L13_[OOP]_Inheritance\obj\Debug\L13_[OOP]_Inheritance.csproj.AssemblyReference.cache
+C:\Users\ASUS\Desktop\Howard\Programming Languages\Self Learning\C#\L13_[OOP]_Inheritance\obj\Debug\L13_[OOP]_Inheritance.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\Desktop\Howard\Programming Languages\Self Learning\C#\L13_[OOP]_Inheritance\obj\Debug\L13_[OOP]_Inheritance.exe
+C:\Users\ASUS\Desktop\Howard\Programming Languages\Self Learning\C#\L13_[OOP]_Inheritance\obj\Debug\L13_[OOP]_Inheritance.pdb
